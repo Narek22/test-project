@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-core/1.10.19/aws-java-sdk-core-1.10.19.jar!/com/amazonaws/auth/DefaultAWSCredentialsProviderChain.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-core/1.11.534/aws-java-sdk-core-1.11.534.jar!/com/amazonaws/auth/EC2ContainerCredentialsProviderWrapper.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wkde/wkde-common/0.2.0-SNAPSHOT/wkde-common-0.2.0-SNAPSHOT.jar!/com/wkde/common/util/CommonUtils.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wkde/wkde-dynamoDb/0.2.0-SNAPSHOT/wkde-dynamodb-0.2.0-SNAPSHOT.jar!/com/wkde/dynamodb/repository/MetadataRepository.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wkde/wkde-elastic/0.2.0-SNAPSHOT/wkde-elastic-0.2.0-SNAPSHOT.jar!/com/wkde/elastic/config/ElasticProperties.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/wkde/wkde-elastic/0.2.0-SNAPSHOT/wkde-elastic-0.2.0-SNAPSHOT.jar!/com/wkde/elastic/entity/ElasticDocument.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/LambdaFunctionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/config/AWSConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/mapper/MetadataMapperCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/model/DocumentMetadata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/service/IndexService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/wk-elastic-index-lambda/src/test/java/com/wkde/index_worker/LambdaFunctionHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/Camera.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/Tablet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/client/Camera.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/client/adapter/CameraAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/client/adapter/TabletAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/client/adapter/ՏաբլետAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Adapter/src/target/Tablet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/Notifyer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/notification/NotifierDecorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/notification/NotifierImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/notification/Notifyer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/notification/concretImplementors/BuzzNotifier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/notification/concretImplementors/FbNotifier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/Decorator/src/notification/concretImplementors/MailNotifier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/WaitingCarsProblem/src/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/WaitingCarsProblem/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Design Patterns/WaitingCarsProblem/src/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/config/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/config/ConfigurationProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/config/ElasticProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/config/ElasticWorkerProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/listener/SQSListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/model.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/model/ElasticDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/model/UpdateRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/service/ElasticProcessingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/service/IndexService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/util/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/java/com/baum/elasticworker/util/ElasticWorkerProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/test/java/com/baum/elasticworker/impl/ElasticFileServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ELASTIC-WORKER/wk-baumeister-elastic-worker/src/test/java/com/baum/elasticworker/impl/IndexServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/C.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/A.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/AutoValuePerson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/B.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/Figure.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/model/Armenian.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/model/Child.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/model/Eatable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/model/House.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/model/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/model/armenian.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/narek/singleton/Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Маин.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/narek/model/EatableTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/java/com/wkde/dynamodbmigration/DynamodbMigrationApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/java/com/wkde/dynamodbmigration/config/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/java/com/wkde/dynamodbmigration/mapper/Mapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/java/com/wkde/dynamodbmigration/model/MandateMetadata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/java/com/wkde/dynamodbmigration/service/EntityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/java/com/wkde/dynamodbmigration/service/MigrationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/java/com/wkde/dynamodbmigration/service/ProcessingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dynamodb-migration/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/controller/AccountController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/controller/DocumentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/controller/FirmController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/controller/MandateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/controller/NotificationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/controller/RegistrationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/service/AccountApiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/service/DocumentApiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/service/FirmApiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/service/MandateApiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/service/NotificationApiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/util/AccessChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/java/com/wkde/api/util/ArgumentChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-api/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-common/src/main/java/com/wkde/common/util/CommonUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-common/src/main/java/com/wkde/common/util/GermanCollator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/convert/converters/DocumentConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/convert/converters/LawyerConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/convert/converters/MandateConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/DocumentDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/NotificationResultDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/RegistrationDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/RegistrationRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/RegistrationResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/mandate/MandateDocumentInfoDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/notification/NotificationResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/notification/NotificationResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/registration/RegistrationRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/dto/registration/RegistrationResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/scheduler/ScheduledTasks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/service/DocumentSearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/service/DocumentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/service/FirmService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/service/LawyerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/service/MandateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/service/SearchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-core/src/main/java/com/wkde/core/util/DeletionHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/entity/Firm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/entity/Lawyer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/repository/FirmRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/repository/LawyerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/repository/MandateRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/service/DocumentEntityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/service/FirmEntityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/service/LawyerEntityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/main/java/com/wkde/db/service/MandateEntityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-db/src/test/java/com/wkde/db/service/impl/DocumentEntityServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-dynamodb/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-dynamodb/src/main/java/com/wkde/dynamodb/config/DynamoDBConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-dynamodb/src/main/java/com/wkde/dynamodb/config/DynamoDBProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-dynamodb/src/main/java/com/wkde/dynamodb/entity/DocumentMetadata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-elastic/src/main/java/com/wkde/elastic/entity/ElasticDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-elastic/src/main/java/com/wkde/elastic/repository/CustomRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-elastic/src/main/java/com/wkde/elastic/service/ElasticService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-elastic/src/main/java/com/wkde/elastic/util/ElasticServiceUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-be/wkde-system/src/main/java/com/wkde/system/service/OcrService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-intrafind/src/main/java/com/wkde/intrafind/config/IntrafindConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-baumeister-intrafind/src/main/java/com/wkde/intrafind/listener/SQSListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-dynamo-sns-lambda/src/main/java/com/wkde/sns/LambdaFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-elastic-index-lambda/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/LambdaFunctionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/mapper/MetadataMapperCustom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/model/DocumentMetadata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-elastic-index-lambda/src/main/java/com/wkde/index_worker/model/ElasticDocument.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../wk-elastic-index-lambda/src/main/resources/my.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
