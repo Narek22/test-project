@@ -11,9 +11,8 @@ public class Main {
         integers.add(18);
         integers.add(11);
         integers.add(1);
-        integers.stream()
-                .forEach(System.out::println);
-
-        List<String> strings = new ArrayList<>();
+        final Integer reduce = integers.stream()
+                .reduce(1, Integer::sum);
+        System.out.println(reduce);
     }
 }
