@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,5 +11,10 @@ public class Main {
         final Integer reduce = integers.stream()
                 .reduce(1, Integer::sum);
         System.out.println(reduce);
+
+        final Optional<Double> first = integers.stream()
+                .map(Math::sin)
+                .findFirst();
+        System.out.println(first.orElseThrow());
     }
 }
