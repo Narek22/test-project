@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,9 +8,9 @@ public class Main {
         integers.add(18);
         integers.add(11);
         integers.add(1);
-        integers.stream()
-                .forEach(System.out::println);
-
-        List<String> strings = new ArrayList<>();
+        final Optional<Double> first = integers.stream()
+                .map(Math::sin)
+                .findFirst();
+        System.out.println(first.orElseThrow());
     }
 }
