@@ -12,9 +12,9 @@ public class Main {
                 .reduce(1, Integer::sum);
         System.out.println(reduce);
 
-        final Optional<Double> first = integers.stream()
-                .map(Math::sin)
-                .findFirst();
-        System.out.println(first.orElseThrow());
+
+        System.out.println("commit 1");
+        System.out.println("commit 2:");
+
     }
 }
